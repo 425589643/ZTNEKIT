@@ -289,15 +289,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		36A718E61D5AF2AF00DC35F5 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 12;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		36A719BB1D5EEB5900DC35F5 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1045,7 +1036,6 @@
 				36C48D4A1CF88DED0071804F /* Headers */,
 				36C48D4B1CF88DED0071804F /* Resources */,
 				B596614759D8E2954DE5A031 /* Warn for TODO and FIXME comments */,
-				36A718E61D5AF2AF00DC35F5 /* CopyFiles */,
 			);
 			buildRules = (
 			);
