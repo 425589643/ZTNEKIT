@@ -1,4 +1,5 @@
 github "425589643/Sodium-framework" "v1.0.7"
+github "425589643/ZTNEKIT" "v1.1.0"
 github "425589643/ZTResolver" "1.0"
 github "425589643/ZTTun2socks" "1.0"
 github "CocoaLumberjack/CocoaLumberjack" "3.8.5"
